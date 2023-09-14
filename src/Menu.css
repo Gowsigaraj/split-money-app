@@ -1,0 +1,82 @@
+.menu_sec {
+    background-color: #fff4e6;
+    width: 400px;
+    position: absolute;
+    top: -400px;
+    right: 40px;
+    padding: 30px;
+
+
+}
+
+.block {
+    display: block;
+}
+
+.none {
+    display: none;
+}
+
+.rows {
+    position: relative;
+    /* display: none; */
+
+
+}
+
+/* .block {
+    display: block !important;
+} */
+
+
+
+.bill {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.paybill {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 28px;
+}
+
+.expense {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 28px;
+}
+
+
+.opp_expense {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.split_bill button {
+    display: inline-block;
+    background-color: #ffa94d;
+    font-size: 16px;
+    border-radius: 5px;
+    padding: 6px 30px;
+    cursor: pointer;
+}
+
+.split_bill button:hover {
+    background-color: #eccba8;
+}
+
+.split_bill {
+    margin-left: 245px;
+}

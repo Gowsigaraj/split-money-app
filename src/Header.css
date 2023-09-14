@@ -1,0 +1,98 @@
+.img_sec {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    width: 400px;
+}
+
+.img_sec:hover {
+    background-color: #efd3b5;
+    transition: 1s;
+}
+
+.image img {
+    border-radius: 50%;
+}
+
+
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-top: 40px; */
+
+}
+
+.red {
+    color: red;
+    /* font-size: 20px; */
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
+
+.btns {
+    display: inline-block;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+    background-color: #ffa94d;
+    cursor: pointer;
+
+}
+
+.btns:hover {
+    background-color: #eccba8;
+
+}
+
+.addbtn {
+    display: inline-block;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+    background-color: #ffa94d;
+    cursor: pointer;
+}
+
+.addbtn:hover {
+    background-color: #eccba8;
+}
+
+.add {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+
+}
+
+.add_friend {
+    display: inline-block;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+    background-color: #ffa94d;
+    cursor: pointer;
+    margin-left: 50%;
+    margin-top: 20px;
+}
+
+.add_friend:hover {
+    background-color: #eccba8;
+}
+
+.none {
+    display: none;
+}
+
+.block {
+    display: block;
+}
