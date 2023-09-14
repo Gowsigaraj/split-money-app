@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/split-money-app/static/css/main.78fcac46.css",
+    "main.js": "/split-money-app/static/js/main.0fde3d5b.js",
+    "static/js/787.d8f82df2.chunk.js": "/split-money-app/static/js/787.d8f82df2.chunk.js",
+    "index.html": "/split-money-app/index.html",
+    "main.78fcac46.css.map": "/split-money-app/static/css/main.78fcac46.css.map",
+    "main.0fde3d5b.js.map": "/split-money-app/static/js/main.0fde3d5b.js.map",
+    "787.d8f82df2.chunk.js.map": "/split-money-app/static/js/787.d8f82df2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78fcac46.css",
+    "static/js/main.0fde3d5b.js"
+  ]
+}
